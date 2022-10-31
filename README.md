@@ -57,7 +57,7 @@
     - pageobjects contém a modularização de todas as funções que serão adotadas para efetivar a validação;
     - steps contém a conexão entre a definição do BDD na *.feature e as chamdas para efetivação da validação com os *Pages.js;
  - **cypress.json:** arquivo de configuração do Cypress;
- - **package.json:** documento que comporta as configurações necessárias para execução do projeto;
+ - **package.json:** documento que comporta as configurações necessárias para execução do projeto; 
 
 
 
