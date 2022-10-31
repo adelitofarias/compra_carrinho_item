@@ -59,7 +59,7 @@
  - **cypress.json:** arquivo de configuração do Cypress;
  - **package.json:** documento que comporta as configurações necessárias para execução do projeto;
 
-Grato pela visita! =D
+
 
 [cy]:https://github.com/cypress-io/cypress 
 [cyDOC]:https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements
