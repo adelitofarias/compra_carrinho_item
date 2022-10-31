@@ -10,6 +10,11 @@ class CadastroPage {
    
     // Ir para a tela de cadastro
     clickCadastro(){
+        
+        Cypress.on('uncaught:exception', (err, runnable) => {
+            return false
+        })
+        
        cy.get(cadastroLocator.fazerLogin()).click();
        cy.get(cadastroLocator.criarConta()).click();
     }
